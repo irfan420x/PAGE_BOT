@@ -7,7 +7,7 @@
   },
   "facebook": {
     "pageAccessToken": "YOUR_PAGE_ACCESS_TOKEN",
-    "verifyToken": "YOUR_VERIFY_TOKEN",
+    "verifyToken": "xx",
     "pageId": "YOUR_PAGE_ID",
     "appSecret": "YOUR_APP_SECRET"
   },
